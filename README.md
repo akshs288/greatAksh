@@ -1,8 +1,8 @@
 # greatAksh
 Machine learning model for crypto exchange
-\n
+<br>
 Creater - Aksh Sharma
-\n
+<br>
 Team - Anuj, Rahul, Rashmi
-\n
+<br>
 languages - python, C++
