@@ -15,6 +15,6 @@ What actually it's ??
   - pywhatkit
 
 ## How to Run ??
-Run - pip install -r requirements.txt
-    - python main1.py
+  - pip install -r requirements.txt
+  - python main1.py
       
