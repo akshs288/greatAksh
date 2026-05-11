@@ -16,5 +16,5 @@ What actually it's ??
 
 ## How to Run ??
 Run - pip install -r requirements.txt
-      python main1.py
+    - python main1.py
       
